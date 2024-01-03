@@ -1,0 +1,12 @@
+[
+    {"id" : "JSON01", "name" : "제이슨01", "location" : "서울"},
+    {"id" : "JSON02", "name" : "제이슨02", "location" : "경기도"},
+    {"id" : "JSON03", "name" : "제이슨03", "location" : "충청남도"},
+    {"id" : "JSON04", "name" : "제이슨04", "location" : "충청북도"},
+    {"id" : "JSON05", "name" : "제이슨05", "location" : "전라도"},
+    {"id" : "table01", "name" : "테이블01", "location" : "경상도"},
+    {"id" : "table02", "name" : "테이블02", "location" : "강원도"},
+    {"id" : "table03", "name" : "테이블03", "location" : "제주도"},
+    {"id" : "table04", "name" : "테이블04", "location" : "울릉도"},
+    {"id" : "table05", "name" : "테이블05", "location" : "해외"}
+]
